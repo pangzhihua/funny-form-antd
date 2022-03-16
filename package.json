@@ -4,6 +4,12 @@
     "author": "pangzhihua",
     "description": "HenryPoo 表单类组件",
     "private": true,
+    "repository": "pangzhihua/funny-form-antd",
+    "license": "MIT",
+    "keywords": [
+        "react",
+        "form"
+    ],
     "dependencies": {
         "@babel/core": "^7.16.0",
         "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
